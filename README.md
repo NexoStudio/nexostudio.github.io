@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Nexo Studio GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NexoStudio/nexostudio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [rust_summary](https://nexostudio.github.io/rust_summary/)
 
 ### Markdown
 
